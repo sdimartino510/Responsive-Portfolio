@@ -141,6 +141,7 @@ textarea {
 @media (max-width: 640px) {
     .header-box {
         height: 130px;
+        position: static;
     }
     .name-header {
         width: 100%;
